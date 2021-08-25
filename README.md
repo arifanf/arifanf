@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning all new interesting things
 - 💞️ I’m looking to collaborate on my interesting project 
-- 📫 How to reach me, find me on LinkedIn
+- 📫 How to reach me, find me on LinkedIn (Arifa Nurul Fadlila)
 
 <!---
 arifanf/arifanf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
